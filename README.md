@@ -1,7 +1,6 @@
 # daniel20006-jupyter-opencv![Screenshot 2025-07-03 015251](https://github.com/user-attachments/assets/4e2920b2-0bab-404e-a6bb-f507849582e2)
 ![Screenshot 2025-07-03 015133](https://github.com/user-attachments/assets/056df00c-8e45-41cc-b758-60202f5c113d)
 ![Screenshot 2025-07-03 015233](https://github.com/user-attachments/assets/8805fed8-cd1f-482c-8ce7-1dd45c4f0cda)
-![IMG_20250703_021027](https://github.com/user-attachments/assets/6b654080-9d31-4dd8-a29f-3ae99f71e072)
 ![IMG_20250703_021017](https://github.com/user-attachments/assets/d6877d51-60ba-44f5-9992-e29bf0f890a4)
 ![IMG_20250703_020955](https://github.com/user-attachments/assets/8790178d-b946-4a46-9421-265c341d4a9b)
 ![IMG_20250703_020944](https://github.com/user-attachments/assets/cb0520fb-a165-4ba1-ad15-2ae92e7b2dbd)
